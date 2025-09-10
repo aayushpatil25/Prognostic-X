@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prognostic-X/static/css/main.30f47933.css",
+    "main.js": "/Prognostic-X/static/js/main.f857eef1.js",
+    "static/js/453.2595386d.chunk.js": "/Prognostic-X/static/js/453.2595386d.chunk.js",
+    "index.html": "/Prognostic-X/index.html",
+    "main.30f47933.css.map": "/Prognostic-X/static/css/main.30f47933.css.map",
+    "main.f857eef1.js.map": "/Prognostic-X/static/js/main.f857eef1.js.map",
+    "453.2595386d.chunk.js.map": "/Prognostic-X/static/js/453.2595386d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f47933.css",
+    "static/js/main.f857eef1.js"
+  ]
+}
