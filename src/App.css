@@ -14,11 +14,9 @@ html, body {
   overflow-x: hidden; /* block all scrolling */
 }
 
-
 .header {
   background: rgba(38,40,40,1);
   color: white;
-  padding: 1rem;
   border-bottom: 1px solid rgba(98, 108, 113, 1);;
 }
 
@@ -26,6 +24,29 @@ html, body {
     display:flex;
     align-items: center;
 }
+
+.header-right{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.header-right .image img{
+  height:84px;
+}
+
+.login{
+   
+    border: 1px solid grey;
+    border-radius: 10%;
+}
+
+.signup{
+    border: 1px solid grey;
+    border-radius: 10%;
+}
+
+
 .header-content {
   display: flex;
   justify-content: space-between;
@@ -391,4 +412,9 @@ html, body {
 .status-resolved {
   background: rgba(22, 160, 133, 0.2);
   color: #16a085;
+}
+
+.notification-bell{
+  display: flex;
+  align-items: flex-start ;
 }

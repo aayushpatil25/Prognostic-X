@@ -1,5 +1,6 @@
 import React from "react";
 import { FiBell } from "react-icons/fi"; // Bell icon
+import machineImage from "../Assets/logo.png";
 
 function Header() {
   return (
@@ -14,11 +15,9 @@ function Header() {
           </div>
         </div>
         <div className="header-right">
-          <div className="notification-bell">
-            <FiBell size={22} />
-            <span className="notification-count">2</span>
+          <div className="image">
+            <img src={machineImage} alt="Machine" />
           </div>
-          <div className="user-profile">Admin</div>
         </div>
       </div>
     </header>
