@@ -1,5 +1,4 @@
 import React from "react";
-import { FiBell } from "react-icons/fi"; // Bell icon
 import machineImage from "../Assets/logo.png";
 
 function Header() {
