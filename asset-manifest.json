@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Prognostic-X/static/css/main.2f440027.css",
-    "main.js": "/Prognostic-X/static/js/main.b9b3d68b.js",
+    "main.css": "/Prognostic-X/static/css/main.c7b9ba44.css",
+    "main.js": "/Prognostic-X/static/js/main.8385267f.js",
     "static/js/453.2595386d.chunk.js": "/Prognostic-X/static/js/453.2595386d.chunk.js",
+    "static/media/logo.png": "/Prognostic-X/static/media/logo.636fa7882e9ebe0cebae.png",
     "index.html": "/Prognostic-X/index.html",
-    "main.2f440027.css.map": "/Prognostic-X/static/css/main.2f440027.css.map",
-    "main.b9b3d68b.js.map": "/Prognostic-X/static/js/main.b9b3d68b.js.map",
+    "main.c7b9ba44.css.map": "/Prognostic-X/static/css/main.c7b9ba44.css.map",
+    "main.8385267f.js.map": "/Prognostic-X/static/js/main.8385267f.js.map",
     "453.2595386d.chunk.js.map": "/Prognostic-X/static/js/453.2595386d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f440027.css",
-    "static/js/main.b9b3d68b.js"
+    "static/css/main.c7b9ba44.css",
+    "static/js/main.8385267f.js"
   ]
 }
